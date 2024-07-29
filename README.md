@@ -6,10 +6,11 @@ This project aims to analyze mental health sentiments using machine learning mod
 2. Logistic Regression: Achieved an accuracy of 77%.
 # Dataset
 Link: https://www.kaggle.com/code/muhammadfaizan65/sentiment-analysis-for-mental-health-nlp/input
+
 The dataset contains statements categorized into different mental health statuses. The columns in the dataset are:
 
 statement: The text statement to be analyzed.
 status: The sentiment category of the statement.
 # Results
-SVM Accuracy: 79%
-Logistic Regression Accuracy: 77%
+1. SVM Accuracy: 79%
+2. Logistic Regression Accuracy: 77%
