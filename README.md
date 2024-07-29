@@ -9,8 +9,8 @@ Link: https://www.kaggle.com/code/muhammadfaizan65/sentiment-analysis-for-mental
 
 The dataset contains statements categorized into different mental health statuses. The columns in the dataset are:
 
-statement: The text statement to be analyzed.
-status: The sentiment category of the statement.
+1. statement: The text statement to be analyzed.
+2. status: The sentiment category of the statement.
 # Results
 1. SVM Accuracy: 79%
 2. Logistic Regression Accuracy: 77%
